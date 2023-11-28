@@ -1,0 +1,42 @@
+Dans le cadre des SAE S2.01 et S2.02, nous devions développer en bionome une forme simplifiée du jeu LATICE.
+L’application devait être implémentée en Java, en utilisant JavaFX pour l’Interface Homme-Machine (IHM).
+Des jeux d’essais devaient également être mis en place pour tester que le comportement de l’application
+soit bien conforme aux spécifications du cahier de charge.
+Finalement, nous devions utiliser git comme gestionnaire de version et pousser notre code sur gitunilim.
+
+En somme, nous devions permettre au client d'effectuer les 4 actions de bases :
+* jouer une tuile
+* passer son tour
+* echanger son rack
+* acheter une action supplémentaire.
+
+Si nous devions résumer cette SAE, nous parlerions d'un travail collectif, un travail de groupe.
+
+Car Nous avons dans le cadre de ce projet, appris à travailler en groupe et à nous partager le travail. 
+En effet, durant les tâches compliquées, nous nous posions à 2 sur des travaux quitte à perdre du temps, mais
+au moins nous comprenions tous les 2, car quand mon co-équipier ne comprenait pas je pouvais lui expliquer
+et vice-versa.
+Cependant, au contraire, quand une tâche nous paraissait simple, nous partagions le travail, nous ne faisions alors
+confiance et à la suite, il nous suffisait de relire et de vérifier le code que l'autre avait produit.
+
+Nous penssons que la ratio conception et implémentation a été très justement respecté car nous passions beaucoup
+de temps sur la conception des étapes, quitte à être un peu en retard mais grâce à cela nous avons
+bien cerné notre projet, la preuve en est, nous l'avons terminé à temps.
+
+Si nous pouvions amélioré notre travail, je pense qu'il aurait été judicieux de rajouter quelques tests et de travailler
+peu plus sur l'aspect graphique que nous avons pas énormément travailler. (le but était de rendre le jeu fonctionel
+non pas forcement beau visuellement)
+De plus, nous aurions aimé pouvoir paramétrer la musique pour rendre le jeu plus intéractif 
+mais surtout ajouter la pièce vent qui est l'un des pilier du jeu Latice, même si elle n'était pas demandé
+il s'agit d'une fonctionalité maitraisse du jeu qui aurait nécessité un peu plus de temps.
+En somme, le temps que nous avons utilisé pour la conception, nous a manqué pour implémenter toutes ces
+fonctionnalités, mais nous ponsons qu'il s'agissait d'un sacrifice qui ont vallait le coup.
+
+Finalement, nous pouvons dire que nous avons beaucoup appris durant cette SAE, en effet,
+avant ce semestre, aucun de nous deux n'avez jamais codé dans un langage orienté objet et nous étions encore
+des débutants dans d'autres langages comme le C ou le Python.
+En somme, grâce aux cours de la ressource mais surtout grâce à la SAé qui nous a fait beaucoup réfléchir et 
+comprendre, nous avons acquis les bases de la programmation orienté objet.
+
+Nous avons appris à conceptualiser puis implémenter des étapes et à tester ces implémentations. De plus, nous
+avons appris à utiliser un gestionnaire de version ce qui est très important.
